@@ -1,0 +1,80 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.Container{
+    margin-bottom: 40px;
+    
+}
+.price{
+    color:#e84393 ;
+}
+p,h3{
+    color: rgb(0, 0, 0);
+}
+.bg{
+    border-radius: 5px ;
+    background-color: #feeae9;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.buy-now-button{
+    font-size: 20px;
+    color: white;
+    padding: 3px 6px;
+    background-color: #e84393;
+    border-radius: 5px;
+    
+
+}
+.bag{
+    background-color: #f1c40f;
+    padding: 10px 30px ;
+    border-radius: 7px;
+}
+.shoes{
+    background-color: rgb(243, 104, 224);
+    padding: 10px 30px ;
+    border-radius: 7px;
+}
+.watch{
+    background-color: rgb(10, 189, 227);
+    padding: 10px 30px ;
+    border-radius: 7px;
+}
+.s{
+    margin-top: 40px;
+    margin-bottom: 50px;
+}
+.card{
+    border-radius: 5px;
+    border: none;
+    box-shadow:5px 5px 20px;
+}
+.bag:hover{
+    background-color: #c2a11f;
+    transition: .5s;
+}
+.shoes:hover{
+    background-color:rgb(185, 105, 175);
+    transition: .5s;
+}
+.watch:hover{
+    background-color: rgb(39, 139, 161);
+    transition: .5s;
+}
+img{
+    width: 100px;
+}
+.footer{
+    height: 200px;
+    background-color: #feeae9;
+    border-radius: 5px;
+    border: none;
+    box-shadow:3px 3px 10px;
+}
+.last{
+    font-size: 10px;
+    text-align: center;
+}
